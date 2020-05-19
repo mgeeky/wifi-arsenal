@@ -1024,9 +1024,6 @@
 [submodule "peapwn"]
 	path = peapwn
 	url = https://github.com/rpp0/peapwn
-[submodule "airpwn-ng"]
-	path = airpwn-ng
-	url = https://github.com/ICSec/airpwn-ng
 [submodule "kismet"]
 	path = kismet
 	url = https://github.com/kismetwireless/kismet
@@ -1492,9 +1489,6 @@
 [submodule "BoopSuite"]
 	path = BoopSuite
 	url = https://github.com/MisterBianco/BoopSuite
-[submodule "airpwn-ng-new"]
-	path = airpwn-ng-new
-	url = https://github.com/ICSec/airpwn-ng
 [submodule "wifikicker"]
 	path = wifikicker
 	url = https://github.com/viluhaxor/wifikicker
@@ -1504,3 +1498,198 @@
 [submodule "PiDense"]
 	path = PiDense
 	url = https://github.com/WiPi-Hunter/PiDense
+[submodule "wifi-txpower-unlocker"]
+	path = wifi-txpower-unlocker
+	url = https://github.com/Manouchehri/wifi-txpower-unlocker
+[submodule "packetEssentials"]
+	path = packetEssentials
+	url = https://github.com/ICSec/packetEssentials
+[submodule "foxHunter"]
+	path = foxHunter
+	url = https://github.com/ICSec/foxHunter
+[submodule "Chura-Liya"]
+	path = Chura-Liya
+	url = https://github.com/ICSec/Chura-Liya
+[submodule "kSnarf"]
+	path = kSnarf
+	url = https://github.com/ICSec/kSnarf
+[submodule "pyDot11"]
+	path = pyDot11
+	url = https://github.com/ICSec/pyDot11
+[submodule "airpwn-ng"]
+	path = airpwn-ng
+	url = https://github.com/ICSec/airpwn-ng
+[submodule "wavecrack"]
+	path = wavecrack
+	url = https://github.com/wavestone-cdt/wavecrack
+[submodule "PiKarma"]
+	path = PiKarma
+	url = https://github.com/WiPi-Hunter/PiKarma
+[submodule "PiSavar"]
+	path = PiSavar
+	url = https://github.com/WiPi-Hunter/PiSavar
+[submodule "PiFinger"]
+	path = PiFinger
+	url = https://github.com/WiPi-Hunter/PiFinger
+[submodule "WiFi-Miner-Detector"]
+	path = WiFi-Miner-Detector
+	url = https://github.com/360PegasusTeam/WiFi-Miner-Detector
+[submodule "sparrow-wifi"]
+	path = sparrow-wifi
+	url = https://github.com/ghostop14/sparrow-wifi
+[submodule "P4wnP1_WiFi_covert_channel_client"]
+	path = P4wnP1_WiFi_covert_channel_client
+	url = https://github.com/mame82/P4wnP1_WiFi_covert_channel_client
+[submodule "WiFiJammer.py"]
+	path = WiFiJammer.py
+	url = https://github.com/hash3liZer/WiFiJammer.py
+[submodule "WiFiBroot"]
+	path = WiFiBroot
+	url = https://github.com/hash3liZer/WiFiBroot
+[submodule "airpydump"]
+	path = airpydump
+	url = https://github.com/hash3liZer/airpydump
+[submodule "eaphammer"]
+	path = eaphammer
+	url = https://github.com/s0lst1c3/eaphammer
+[submodule "PSKracker"]
+	path = PSKracker
+	url = https://github.com/soxrok2212/PSKracker
+[submodule "wirespy"]
+	path = wirespy
+	url = https://github.com/AresS31/wirespy
+[submodule "dwpa"]
+	path = dwpa
+	url = https://github.com/RealEnder/dwpa
+[submodule "roguehostapd"]
+	path = roguehostapd
+	url = https://github.com/wifiphisher/roguehostapd
+[submodule "probequest"]
+	path = probequest
+	url = https://github.com/SkypLabs/probequest
+[submodule "rogue"]
+	path = rogue
+	url = https://github.com/InfamousSYN/rogue
+[submodule "krackattacks-scripts"]
+	path = krackattacks-scripts
+	url = https://github.com/vanhoefm/krackattacks-scripts
+[submodule "evilportals"]
+	path = evilportals
+	url = https://github.com/kbeflo/evilportals
+[submodule "wifikill"]
+	path = wifikill
+	url = https://github.com/roglew/wifikill
+[submodule "mdk4"]
+	path = mdk4
+	url = https://github.com/aircrack-ng/mdk4
+[submodule "krackattacks"]
+	path = krackattacks
+	url = https://github.com/vanhoefm/krackattacks
+[submodule "krackinfo"]
+	path = krackinfo
+	url = https://github.com/kristate/krackinfo
+[submodule "krackdetector"]
+	path = krackdetector
+	url = https://github.com/securingsam/krackdetector
+[submodule "KRACKDetection"]
+	path = KRACKDetection
+	url = https://github.com/IronMage/KRACKDetection
+[submodule "krackattacks-poc-zerokey"]
+	path = krackattacks-poc-zerokey
+	url = https://github.com/vanhoefm/krackattacks-poc-zerokey
+[submodule "Krack-wps"]
+	path = Krack-wps
+	url = https://github.com/Programmuser/Krack-wps
+[submodule "KRACK-toolkit"]
+	path = KRACK-toolkit
+	url = https://github.com/omaidf/KRACK-toolkit
+[submodule "WPA2-KRACK"]
+	path = WPA2-KRACK
+	url = https://github.com/jiansiting/WPA2-KRACK
+[submodule "wpseyes"]
+	path = wpseyes
+	url = https://github.com/h4ckzard/wpseyes
+[submodule "Thesis"]
+	path = Thesis
+	url = https://github.com/grazianomarallo/Thesis
+[submodule "PCAP-CRACKER"]
+	path = PCAP-CRACKER
+	url = https://github.com/BroadbentT/PCAP-CRACKER
+[submodule "krackattacks-Test-Vulnerability"]
+	path = krackattacks-Test-Vulnerability
+	url = https://github.com/p5panam/krackattacks-Test-Vulnerability
+[submodule "krackattack-all-zero-tk-key"]
+	path = krackattack-all-zero-tk-key
+	url = https://github.com/lucascouto/krackattack-all-zero-tk-key
+[submodule "KrackPlus"]
+	path = KrackPlus
+	url = https://github.com/fwalloe/KrackPlus
+[submodule "KrackAttack"]
+	path = KrackAttack
+	url = https://github.com/Guppster/KrackAttack
+[submodule "krack-poc"]
+	path = krack-poc
+	url = https://github.com/Hackndo/krack-poc
+[submodule "KRACK"]
+	path = KRACK
+	url = https://github.com/chinatso/KRACK
+[submodule "krackattacks-pineapple"]
+	path = krackattacks-pineapple
+	url = https://github.com/adde88/krackattacks-pineapple
+[submodule "wifite2mod"]
+	path = wifite2mod
+	url = https://github.com/nuncan/wifite2mod
+[submodule "wifite2-docker"]
+	path = wifite2-docker
+	url = https://github.com/random-robbie/wifite2-docker
+[submodule "wifiteintaller"]
+	path = wifiteintaller
+	url = https://github.com/zonesecure/wifiteintaller
+[submodule "WiFite2-RPi3-nexmon"]
+	path = WiFite2-RPi3-nexmon
+	url = https://github.com/awesome-pentest-gadgets/WiFite2-RPi3-nexmon
+[submodule "CODEX"]
+	path = CODEX
+	url = https://github.com/DEADSEC-SECURITY/CODEX
+[submodule "Tools-Airgeddon"]
+	path = Tools-Airgeddon
+	url = https://github.com/wahyu227/Tools-Airgeddon
+[submodule "nabui"]
+	path = nabui
+	url = https://github.com/KhasMek/nabui
+[submodule "ninjaberry"]
+	path = ninjaberry
+	url = https://github.com/mrusme/ninjaberry
+[submodule "easy-bettercap"]
+	path = easy-bettercap
+	url = https://github.com/bootes-void/easy-bettercap
+[submodule "krack"]
+	path = krack
+	url = https://github.com/tolgahanakgun/krack
+[submodule "piwifipineapple"]
+	path = piwifipineapple
+	url = https://github.com/f1rsty/piwifipineapple.git
+[submodule "PINEAPPLE"]
+	path = PINEAPPLE
+	url = https://github.com/charlieporth1/PINEAPPLE
+[submodule "Wifi-Cracker"]
+	path = Wifi-Cracker
+	url = https://github.com/BadAppsDevelopment/Wifi-Cracker
+[submodule "OneShot"]
+	path = OneShot
+	url = https://github.com/drygdryg/OneShot
+[submodule "easy-hcx"]
+	path = easy-hcx
+	url = https://github.com/t3chnocat/easy-hcx
+[submodule "pmkid-extractor"]
+	path = pmkid-extractor
+	url = https://github.com/davidetestoni/pmkid-extractor
+[submodule "wpa2-enterprise-attack"]
+	path = wpa2-enterprise-attack
+	url = https://github.com/ricardojoserf/wpa2-enterprise-attack
+[submodule "WirelessMayhem"]
+	path = WirelessMayhem
+	url = https://github.com/c0mix/WirelessMayhem
+[submodule "openwifi"]
+	path = openwifi
+	url = https://github.com/open-sdr/openwifi
